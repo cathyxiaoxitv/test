@@ -3,9 +3,9 @@
 
 从今年2月份开始就陆陆续续地在一些网站自学过：
 
-* [codecademy](www.codecademy.com)
-* [Khan Cademy](www.khancademy.com)
-* [Le Wagon](www.lewagon.com)
+* [codecademy](http://www.codecademy.com/)
+* [Khan Cademy](http://www.khancademy.com)
+* [Le Wagon](http://www.lewagon.com)
 
 其实我都已经在打算在今年6月底入学Le Wagon在东京的线下训练营了。但是！
 
